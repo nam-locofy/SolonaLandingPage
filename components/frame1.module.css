@@ -1,0 +1,79 @@
+.newCity,
+.rectangle {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 100%;
+}
+.rectangle {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gray-200);
+}
+.newCity {
+  background-color: var(--color-gray-1000);
+}
+.newYorkHacker,
+.startSpreadingThe {
+  position: absolute;
+  width: 93.34%;
+  top: 0.2px;
+  left: 0.12%;
+  line-height: 28.08px;
+  display: inline-block;
+}
+.startSpreadingThe {
+  width: 94.16%;
+  top: 43.2px;
+  font-size: var(--font-size-base);
+  line-height: 17.6px;
+}
+.frame1,
+.frame2 {
+  position: absolute;
+}
+.frame2 {
+  width: 80%;
+  right: 10.09%;
+  bottom: 30.2px;
+  left: 9.91%;
+  height: 113px;
+}
+.frame1 {
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 100%;
+}
+.frame,
+.imageIcon {
+  position: absolute;
+  height: 200px;
+  overflow: hidden;
+}
+.imageIcon {
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  object-fit: cover;
+}
+.frame {
+  width: 9.49%;
+  top: 1.2px;
+  right: 60.75%;
+  left: 29.76%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-helvetica);
+}
+@media screen and (max-width: 450px) {
+  .newYorkHacker {
+    font-size: var(--font-size-base);
+    line-height: 22px;
+  }
+}

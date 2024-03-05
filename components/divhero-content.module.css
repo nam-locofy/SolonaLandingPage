@@ -1,0 +1,134 @@
+.startBuilding {
+  position: relative;
+  font-size: var(--font-size-mini);
+  line-height: 20px;
+  text-transform: uppercase;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: center;
+}
+.breakSolana {
+  cursor: pointer;
+  border: 1px solid var(--color-black);
+  padding: var(--padding-base) var(--padding-15xl) var(--padding-base)
+    var(--padding-13xl);
+  background-color: transparent;
+  position: absolute;
+  top: calc(50% + 159px);
+  left: calc(50% - 172.85px);
+  border-radius: var(--br-17xl);
+  background: linear-gradient(98.88deg, #8c01fa, #000);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.breakSolana1:hover,
+.breakSolana:hover {
+  background-color: var(--color-darkslategray-200);
+  border: 1px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+}
+.readDocs {
+  position: relative;
+  font-size: var(--font-size-mini);
+  line-height: 20px;
+  text-transform: uppercase;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: center;
+}
+.breakSolana1 {
+  cursor: pointer;
+  border: 1px solid var(--color-white);
+  padding: var(--padding-base) var(--padding-15xl) var(--padding-base)
+    var(--padding-13xl);
+  background-color: var(--color-black);
+  position: absolute;
+  top: calc(50% + 159px);
+  left: calc(50% + 23.15px);
+  border-radius: var(--br-17xl);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.breakSolana1:hover {
+  background-color: var(--color-darkslategray-100);
+  border: 1px solid var(--color-gainsboro);
+}
+.powerfulForDevelopers {
+  margin: 0;
+  top: 182px;
+  left: calc(50% - 387.85px);
+  font-size: inherit;
+  letter-spacing: 0.68px;
+  line-height: 75.6px;
+  font-weight: 400;
+  font-family: inherit;
+  width: 777px;
+}
+.bringBlockchainTo,
+.fastForEveryone,
+.powerfulForDevelopers {
+  position: absolute;
+  display: inline-block;
+}
+.fastForEveryone {
+  margin: 0;
+  top: 257px;
+  left: calc(50% - 282.85px);
+  font-size: var(--font-size-49xl);
+  letter-spacing: 0.68px;
+  line-height: 75.6px;
+  font-weight: 400;
+  font-family: inherit;
+  width: 566px;
+}
+.bringBlockchainTo {
+  top: 388px;
+  left: calc(50% - 293.85px);
+  font-size: var(--font-size-2xl);
+  line-height: 27.3px;
+  width: 589px;
+}
+.divheroContent {
+  position: absolute;
+  width: 100%;
+  top: 87px;
+  right: -0.06%;
+  left: 0.4%;
+  height: 664px;
+  text-align: center;
+  font-size: var(--font-size-51xl);
+  color: var(--color-white);
+  font-family: var(--font-helvetica);
+}
+@media screen and (max-width: 1025px) {
+  .powerfulForDevelopers {
+    font-size: var(--font-size-37xl);
+    line-height: 60px;
+  }
+  .fastForEveryone {
+    font-size: var(--font-size-35xl);
+    line-height: 60px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .powerfulForDevelopers {
+    font-size: var(--font-size-23xl);
+    line-height: 45px;
+  }
+  .fastForEveryone {
+    font-size: var(--font-size-22xl);
+    line-height: 45px;
+  }
+  .bringBlockchainTo {
+    font-size: var(--font-size-mid);
+    line-height: 22px;
+  }
+}

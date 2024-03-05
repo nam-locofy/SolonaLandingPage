@@ -1,0 +1,407 @@
+.solanaFoundation {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-xs) var(--br-xs) 0 0;
+  background-color: var(--color-gray-600);
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  height: 383px;
+}
+.metaplexDocsIcon {
+  position: absolute;
+  top: 0.2px;
+  left: calc(50% - 167px);
+  width: 31px;
+  height: 27px;
+  overflow: hidden;
+}
+.div,
+.latestEpisode,
+.solanaFoundationAll {
+  position: absolute;
+  width: 5.09%;
+  top: -0.4px;
+  left: 0;
+  line-height: 27.3px;
+  display: inline-block;
+}
+.latestEpisode,
+.solanaFoundationAll {
+  width: 83.83%;
+  left: 16.17%;
+}
+.latestEpisode {
+  width: 11.08%;
+  left: 5.09%;
+}
+.learnMetaplex,
+.rectangle {
+  position: absolute;
+  width: 100%;
+  top: 144.6px;
+  right: 0;
+  left: 0;
+  height: 27px;
+}
+.rectangle {
+  top: 0;
+  background-color: var(--color-lightslategray);
+  height: 16px;
+}
+.frame1,
+.frameIcon {
+  position: absolute;
+  border-radius: var(--br-81xl);
+  height: 16px;
+}
+.frameIcon {
+  top: 0;
+  left: calc(50% - 8px);
+  width: 16px;
+  overflow: hidden;
+}
+.frame1 {
+  width: 12.62%;
+  top: 4.6px;
+  right: 87.38%;
+  left: 0;
+}
+.frameIcon1,
+.rectangle1 {
+  position: absolute;
+  top: 0;
+  height: 16px;
+}
+.rectangle1 {
+  width: 100%;
+  right: 0;
+  left: 0;
+  background-color: var(--color-lightslategray);
+}
+.frameIcon1 {
+  left: calc(50% - 8px);
+  width: 16px;
+  overflow: hidden;
+}
+.frame2,
+.frameIcon2 {
+  position: absolute;
+  width: 12.62%;
+  top: 4.6px;
+  right: 52.43%;
+  left: 34.95%;
+  height: 16px;
+}
+.frameIcon2 {
+  right: 17.48%;
+  left: 69.9%;
+  max-width: 100%;
+  overflow: hidden;
+}
+.rectangle2 {
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: var(--color-lightslategray);
+}
+.frame3,
+.frameIcon3,
+.rectangle2 {
+  position: absolute;
+  height: 16px;
+}
+.frameIcon3 {
+  top: 0;
+  left: calc(50% - 8px);
+  width: 16px;
+  overflow: hidden;
+}
+.frame3 {
+  width: 12.62%;
+  top: 4.6px;
+  right: 69.9%;
+  left: 17.48%;
+}
+.frameIcon4,
+.rectangle3 {
+  position: absolute;
+  top: 0;
+  height: 16px;
+}
+.rectangle3 {
+  width: 100%;
+  right: 0;
+  left: 0;
+  background-color: var(--color-lightslategray);
+}
+.frameIcon4 {
+  left: calc(50% - 8px);
+  width: 16px;
+  overflow: hidden;
+}
+.frame4,
+.rectangle4 {
+  position: absolute;
+  right: 0;
+  height: 16px;
+}
+.frame4 {
+  width: 12.62%;
+  top: 4.6px;
+  left: 87.38%;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-white);
+}
+.rectangle4 {
+  width: 100%;
+  top: 0;
+  left: 0;
+  background-color: var(--color-lightslategray);
+}
+.frameIcon5 {
+  top: 0;
+  left: calc(50% - 8px);
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+}
+.frame,
+.frame5,
+.frameIcon5 {
+  position: absolute;
+}
+.frame5 {
+  width: 12.62%;
+  top: 4.6px;
+  right: 34.95%;
+  left: 52.43%;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-white);
+  height: 16px;
+  overflow: hidden;
+}
+.frame {
+  width: 61.68%;
+  top: 94.6px;
+  right: 38.32%;
+  left: 0;
+  height: 30px;
+}
+.managedBySolana {
+  position: absolute;
+  width: 73.05%;
+  top: 47.2px;
+  left: 0;
+  line-height: 27.3px;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  display: inline-block;
+}
+.learnResourceHub {
+  position: absolute;
+  height: 100%;
+  width: 30.36%;
+  top: 0;
+  right: 69.64%;
+  bottom: 0;
+  left: 0;
+}
+.breakSolana,
+.careers,
+.disclaimer,
+.grants,
+.mediaKit {
+  position: absolute;
+  left: 0.54%;
+  line-height: 27.3px;
+  display: inline-block;
+}
+.grants {
+  width: 51.61%;
+  top: 5.2px;
+  font-size: var(--font-size-mini);
+}
+.breakSolana,
+.careers,
+.disclaimer,
+.mediaKit {
+  width: 73.12%;
+  top: 83.2px;
+}
+.breakSolana,
+.careers,
+.disclaimer {
+  width: 82.8%;
+  top: 161.2px;
+}
+.breakSolana,
+.careers {
+  width: 62.37%;
+  top: 122.2px;
+}
+.breakSolana {
+  width: 100%;
+  top: 44.2px;
+  font-size: var(--font-size-mini);
+}
+.mediaKitDisclr {
+  position: absolute;
+  width: 57.76%;
+  top: 26px;
+  right: 29.81%;
+  left: 12.42%;
+  height: 195px;
+}
+.solana {
+  position: absolute;
+  width: 40.37%;
+  top: -0.8px;
+  left: 12.73%;
+  line-height: 18.72px;
+  text-transform: uppercase;
+  color: var(--color-white);
+  display: inline-block;
+}
+.grantsFrame {
+  position: absolute;
+  height: 100%;
+  width: 33.79%;
+  top: 0;
+  right: 66.21%;
+  bottom: 0;
+  left: 0;
+}
+.blog,
+.ecosystem,
+.newsletter {
+  position: absolute;
+  width: 57.66%;
+  top: 5.2px;
+  left: 0.36%;
+  line-height: 27.3px;
+  display: inline-block;
+}
+.blog,
+.newsletter {
+  width: 58.39%;
+  top: 83.2px;
+}
+.blog {
+  width: 23.36%;
+  top: 44.2px;
+  font-size: var(--font-size-mini);
+}
+.frame7,
+.getConnected {
+  position: absolute;
+  width: 66.83%;
+}
+.frame7 {
+  top: 26px;
+  right: 23.41%;
+  left: 9.76%;
+  height: 117px;
+}
+.getConnected {
+  top: -0.8px;
+  left: 10%;
+  font-size: var(--font-size-mini);
+  line-height: 18.72px;
+  text-transform: uppercase;
+  color: var(--color-white);
+  display: inline-block;
+}
+.grantsMediaKitDisclaimerCa {
+  position: absolute;
+  height: 100%;
+  width: 64.98%;
+  top: 0;
+  right: 35.02%;
+  bottom: 0;
+  left: 0;
+}
+.frameFooter {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  height: 20px;
+}
+.frameIcon6 {
+  top: 0;
+  left: calc(50% - 35px);
+  width: 19px;
+  height: 20px;
+  overflow: hidden;
+}
+.en,
+.frameIcon6,
+.frameIcon7 {
+  position: absolute;
+}
+.frameIcon7 {
+  top: 2px;
+  left: calc(50% + 14px);
+  width: 17px;
+  height: 17px;
+  overflow: hidden;
+}
+.en {
+  top: calc(50% - 12px);
+  left: calc(50% - 12px);
+  line-height: 24px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 22px;
+}
+.frameNavigation {
+  position: absolute;
+  width: 22.19%;
+  top: calc(50% - 111.3px);
+  right: 6.34%;
+  left: 71.47%;
+  height: 20px;
+  text-align: center;
+  font-size: var(--font-size-mini);
+}
+.frame6,
+.solanaFoundation1 {
+  position: absolute;
+  height: 100%;
+  width: 66.21%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 33.79%;
+}
+.solanaFoundation1 {
+  width: 43.32%;
+  right: -1.82%;
+  left: 58.5%;
+}
+.divfooter,
+.managedBySF {
+  position: absolute;
+  width: 63.51%;
+  top: 80.8px;
+  right: 18.24%;
+  left: 18.24%;
+  height: 221px;
+}
+.divfooter {
+  width: 100%;
+  top: 4511px;
+  right: 0;
+  left: 0;
+  height: 383px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-lightslategray);
+  font-family: var(--font-helvetica);
+}

@@ -1,0 +1,145 @@
+.text {
+  position: absolute;
+  width: 56.31%;
+  top: -155.6px;
+  right: -21.75%;
+  left: 65.44%;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-violet-200);
+  filter: blur(500px);
+  height: 642px;
+}
+.divfooter {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-mediumspringgreen-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 42px;
+}
+.buildNow {
+  position: absolute;
+  top: calc(50% - 11px);
+  left: calc(50% - 42.15px);
+  font-size: var(--font-size-mini);
+  line-height: 20px;
+  text-transform: uppercase;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 84px;
+}
+.listItem {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  height: 42px;
+  width: 126.3px;
+  position: relative;
+}
+.grantsMediaKitDisclaimerCa {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-black);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  height: 42px;
+}
+.ecosystemNewsletterIcon {
+  position: absolute;
+  top: 11px;
+  left: calc(50% + 60.85px);
+  width: 16px;
+  height: 20px;
+  overflow: hidden;
+}
+.stackExchange {
+  position: absolute;
+  top: calc(50% - 11px);
+  left: calc(50% - 78.15px);
+  font-size: var(--font-size-mini);
+  line-height: 20px;
+  text-transform: uppercase;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 129px;
+}
+.breakpoint {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  height: 42px;
+  flex: 1;
+  position: relative;
+}
+.button {
+  position: absolute;
+  width: 83.78%;
+  top: 288px;
+  right: 16.1%;
+  left: 0.13%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 8px;
+}
+.aManualFor,
+.developerResources {
+  position: absolute;
+  display: inline-block;
+}
+.developerResources {
+  margin: 0;
+  width: 142.71%;
+  top: -11.6px;
+  left: 0.13%;
+  font-size: inherit;
+  letter-spacing: 0.48px;
+  line-height: 96px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.aManualFor {
+  width: 99.01%;
+  top: 199.4px;
+  left: 0;
+  font-size: var(--font-size-2xl);
+  line-height: 24.34px;
+  color: var(--color-silver-100);
+}
+.link,
+.rectangle {
+  position: absolute;
+  top: 0;
+}
+.link {
+  height: 100%;
+  width: 35.09%;
+  right: 63.16%;
+  bottom: 0;
+  left: 1.75%;
+}
+.rectangle {
+  width: 64.92%;
+  right: 17.54%;
+  left: 17.54%;
+  height: 330px;
+  text-align: left;
+  font-size: var(--font-size-75xl);
+  color: var(--color-white);
+  font-family: var(--font-helvetica);
+}

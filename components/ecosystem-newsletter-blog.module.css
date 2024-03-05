@@ -1,0 +1,374 @@
+.solanaInfo {
+  position: absolute;
+  height: 100%;
+  width: 68.34%;
+  top: 0;
+  right: 15.83%;
+  bottom: 0;
+  left: 15.83%;
+  border-radius: var(--br-smi);
+}
+.rectangle {
+  position: absolute;
+  width: 100%;
+  top: 77px;
+  right: 0;
+  left: 0;
+  background-color: var(--color-gray-700);
+  height: 1px;
+}
+.learnHowSolana {
+  position: absolute;
+  width: 75.27%;
+  top: 107.4px;
+  left: 0;
+  line-height: 27.3px;
+  display: inline-block;
+}
+.programExamples,
+.rectangleFrameLearn {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 77px;
+}
+.rectangleFrameLearn {
+  border-radius: var(--br-5xl);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  height: 46px;
+}
+.rectangleFrameLearn1 {
+  position: absolute;
+  top: 11px;
+  left: calc(50% + 29.05px);
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.viewAll {
+  position: absolute;
+  top: calc(50% - 11px);
+  left: calc(50% - 52.95px);
+  font-size: var(--font-size-mini);
+  line-height: 20px;
+  text-transform: uppercase;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 72px;
+}
+.programExamples1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  width: 28.29%;
+  top: calc(50% - 38.5px);
+  right: 0.02%;
+  left: 71.69%;
+  height: 46px;
+}
+.solanaDocs {
+  margin: 0;
+  position: absolute;
+  top: calc(50% - 36.5px);
+  left: 0;
+  font-size: inherit;
+  line-height: 33.6px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.anchorDocs {
+  position: absolute;
+  width: 100%;
+  top: 0.4px;
+  right: 0;
+  left: 0;
+  height: 77px;
+  font-size: var(--font-size-13xl);
+}
+.frame {
+  position: absolute;
+  width: 46.5%;
+  top: 0;
+  right: 51.75%;
+  left: 1.75%;
+  height: 160px;
+}
+.frameChild,
+.metaplexDocs,
+.rectangle1 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+}
+.rectangle1 {
+  top: 77px;
+  background-color: var(--color-gray-700);
+  height: 1px;
+}
+.frameChild,
+.metaplexDocs {
+  top: 0;
+  height: 77px;
+}
+.metaplexDocs {
+  border-radius: var(--br-5xl);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  height: 46px;
+}
+.viewAll2 {
+  position: absolute;
+  top: calc(50% - 11px);
+  left: calc(50% - 52.95px);
+  font-size: var(--font-size-mini);
+  line-height: 20px;
+  text-transform: uppercase;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 72px;
+}
+.solanaDocs1 {
+  margin: 0;
+  position: absolute;
+  top: 11px;
+  left: calc(50% + 29.05px);
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.viewAll1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  width: 28.29%;
+  top: calc(50% - 38.5px);
+  right: 0.02%;
+  left: 71.69%;
+  height: 46px;
+}
+.metaplexDocs1 {
+  margin: 0;
+  width: 41.7%;
+  top: calc(50% - 36.5px);
+  font-size: inherit;
+  line-height: 33.6px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.frame2,
+.learnWhatYou,
+.metaplexDocs1 {
+  position: absolute;
+  left: 0;
+}
+.frame2 {
+  width: 100%;
+  top: 0.4px;
+  right: 0;
+  height: 77px;
+}
+.learnWhatYou {
+  width: 96.21%;
+  top: 107.4px;
+  font-size: var(--font-size-xl);
+  line-height: 27.3px;
+  display: inline-block;
+}
+.frame1 {
+  position: absolute;
+  width: 46.5%;
+  top: 0;
+  right: 1.75%;
+  left: 51.75%;
+  height: 160px;
+  font-size: var(--font-size-13xl);
+}
+.frameParent,
+.frameworkRectangle {
+  position: absolute;
+  width: 103.63%;
+  top: 0;
+  right: -1.82%;
+  left: -1.82%;
+  height: 176px;
+}
+.frameworkRectangle {
+  width: 100%;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-black);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  height: 24px;
+}
+.latestEpisode {
+  position: absolute;
+  top: 1px;
+  left: calc(50% - 79.15px);
+  line-height: 20px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 123px;
+}
+.changelog {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: calc(50% + 53.85px);
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.learnFromSources {
+  position: absolute;
+  width: 37.93%;
+  top: calc(50% + 85.9px);
+  right: 62.07%;
+  left: 0;
+  height: 24px;
+  text-align: center;
+  font-family: var(--font-roboto);
+}
+.solanaChangelog,
+.someMoreSolana {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.solanaChangelog {
+  margin: 0;
+  width: 61.5%;
+  top: -3.6px;
+  font-size: var(--font-size-20xl);
+  line-height: 42px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.someMoreSolana {
+  width: 96.6%;
+  top: 67.4px;
+  font-size: var(--font-size-xl);
+  line-height: 27.3px;
+}
+.solanaResources {
+  position: absolute;
+  width: 46.5%;
+  top: 0;
+  right: 51.75%;
+  left: 1.75%;
+  height: 241px;
+}
+.image {
+  width: 46.09%;
+  top: 0.4px;
+  right: 0;
+  left: 53.91%;
+  height: 303px;
+}
+.image,
+.imageIcon,
+.signUpNewsletter {
+  position: absolute;
+  overflow: hidden;
+}
+.imageIcon {
+  width: 46.09%;
+  top: 0.4px;
+  right: 0;
+  left: 53.91%;
+  max-width: 100%;
+  height: 303px;
+  object-fit: cover;
+}
+.signUpNewsletter {
+  width: 100.88%;
+  top: 0;
+  right: 1.75%;
+  left: -2.63%;
+  height: 429.4px;
+}
+.managedBySolana {
+  position: absolute;
+  width: 103.63%;
+  top: 304px;
+  right: -1.82%;
+  left: -1.82%;
+  height: 309.7px;
+  font-size: var(--font-size-mini);
+}
+.rectangleFrame {
+  position: absolute;
+  width: 96.5%;
+  top: 197px;
+  right: 1.75%;
+  left: 1.75%;
+  height: 613.7px;
+}
+.goToThe,
+.readTheDocumentation {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.goToThe {
+  margin: 0;
+  width: 26.64%;
+  top: 76.4px;
+  font-size: inherit;
+  letter-spacing: 0.68px;
+  line-height: 42px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.readTheDocumentation {
+  width: 45.27%;
+  top: 121.4px;
+  font-size: var(--font-size-xl);
+  line-height: 27.3px;
+  color: var(--color-silver-100);
+  margin-top: 100px;
+}
+.signUpDivNav {
+  position: absolute;
+  width: 96.5%;
+  top: 0;
+  right: 1.75%;
+  left: 1.75%;
+  height: 149px;
+  font-size: var(--font-size-17xl);
+}
+.frameContent {
+  position: absolute;
+  width: 64.92%;
+  top: -0.4px;
+  right: 17.54%;
+  left: 17.54%;
+  height: 810.7px;
+}
+.ecosystemNewsletterBlog {
+  position: absolute;
+  width: 100%;
+  top: 2904.4px;
+  right: 0;
+  left: 0;
+  background: linear-gradient(180deg, #19161c, #000);
+  height: 811px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-helvetica);
+}

@@ -1,0 +1,127 @@
+.blogIcon,
+.enIcon,
+.image4Icon {
+  height: 37.2px;
+  width: 113.4px;
+  position: relative;
+  object-fit: cover;
+}
+.enIcon,
+.image4Icon {
+  height: 37px;
+  width: 141px;
+}
+.image4Icon {
+  position: absolute;
+  top: 7.4px;
+  left: -4.2px;
+  width: 124px;
+  height: 24px;
+}
+.solanaEcosystem {
+  height: 38px;
+  width: 115px;
+  position: relative;
+}
+.image5Icon {
+  position: absolute;
+  top: -2.6px;
+  left: 8.8px;
+  width: 96px;
+  height: 44px;
+  object-fit: cover;
+}
+.solanaEcosystem1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  height: 38px;
+  width: 114px;
+  position: relative;
+}
+.image6Icon {
+  position: absolute;
+  top: 3.4px;
+  left: 7.8px;
+  width: 99px;
+  height: 31px;
+  object-fit: cover;
+}
+.solanaEcosystem2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  height: 38px;
+  width: 114px;
+  position: relative;
+}
+.image7Icon {
+  position: absolute;
+  top: 8.4px;
+  left: 5.2px;
+  width: 105.2px;
+  height: 22px;
+  object-fit: cover;
+}
+.solanaEcosystem3 {
+  height: 38px;
+  width: 115px;
+  position: relative;
+}
+.image8Icon {
+  position: absolute;
+  top: 5.4px;
+  left: -21.2px;
+  width: 157px;
+  height: 27px;
+  object-fit: cover;
+}
+.solanaEcosystem4 {
+  height: 38px;
+  width: 114px;
+  position: relative;
+}
+.frame {
+  position: absolute;
+  top: 47.6px;
+  left: calc(50% - 580.45px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-31xl);
+  gap: 0 40px;
+}
+.poweringToolsAnd {
+  position: absolute;
+  top: -2px;
+  left: calc(50% - 349.25px);
+  letter-spacing: 0.8px;
+  line-height: 16.8px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 704px;
+}
+.divclient {
+  position: absolute;
+  width: 100%;
+  top: 751px;
+  right: -0.06%;
+  left: -0.4%;
+  height: 105px;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-cornflowerblue);
+  font-family: var(--font-helvetica);
+}
+@media screen and (max-width: 1100px) {
+  .frame {
+    flex-wrap: wrap;
+  }
+  .divclient {
+    height: auto;
+    min-height: 105;
+  }
+}

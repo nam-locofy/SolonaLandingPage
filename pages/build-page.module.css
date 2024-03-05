@@ -1,0 +1,1544 @@
+.frameworksLogo,
+.image {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.image {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  border-radius: var(--br-lg);
+  height: 370px;
+  background-image: url(/image-1111@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.frameworksLogo {
+  border-radius: var(--br-base);
+  background-color: var(--color-blueviolet);
+  height: 15px;
+}
+.chapters {
+  position: absolute;
+  width: 72.17%;
+  top: -2px;
+  left: 13.92%;
+  line-height: 18px;
+  display: inline-block;
+}
+.latestEpisode,
+.managedBySF {
+  position: absolute;
+  left: 12.04%;
+}
+.latestEpisode {
+  width: 14.8%;
+  top: 9.4px;
+  right: 73.16%;
+  height: 15px;
+}
+.managedBySF {
+  width: 5.16%;
+  top: calc(50% + 81.4px);
+  right: 82.8%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 25px;
+}
+.disclaimerCareers {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 54px;
+}
+.quickstartYourSolana {
+  position: absolute;
+  width: 98.25%;
+  top: 2px;
+  left: 0;
+  line-height: 27px;
+  display: inline-block;
+}
+.grantsMedia {
+  position: absolute;
+  width: 68.84%;
+  top: 110.4px;
+  right: 19.12%;
+  left: 12.04%;
+  height: 54px;
+  font-size: var(--font-size-lg);
+}
+.solanaDevelopmentCourse {
+  margin: 0;
+  position: absolute;
+  width: 87.94%;
+  top: 41.4px;
+  left: 12.04%;
+  font-size: var(--font-size-20xl);
+  line-height: 40px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.rectangleLearn {
+  position: absolute;
+  width: 52.82%;
+  top: calc(50% - 109.4px);
+  right: 45.36%;
+  left: 1.82%;
+  height: 218px;
+}
+.managedBy {
+  top: 111px;
+  height: 259px;
+}
+.image1,
+.managedBy,
+.programExamples,
+.rectangle {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+}
+.programExamples {
+  top: 0.4px;
+  height: 370px;
+  overflow: hidden;
+}
+.image1,
+.rectangle {
+  top: 0;
+}
+.image1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  border-radius: var(--br-lg);
+  height: 320px;
+  background-image: url(/image-21@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.rectangle {
+  border-radius: var(--br-base);
+  background-color: var(--color-blueviolet);
+  height: 18px;
+}
+.chapters1 {
+  position: absolute;
+  width: 72.38%;
+  top: -1px;
+  left: 13.75%;
+  line-height: 18px;
+  display: inline-block;
+}
+.resourcesList {
+  position: absolute;
+  width: 37.18%;
+  top: 8.4px;
+  right: 62.82%;
+  left: 0;
+  height: 18px;
+}
+.buildspace {
+  position: absolute;
+  width: 38.91%;
+  top: 37.4px;
+  left: 0;
+  font-size: var(--font-size-lg);
+  line-height: 25.2px;
+  display: inline-block;
+}
+.twoSmallCircles {
+  position: absolute;
+  height: 100%;
+  width: 81.64%;
+  top: 0;
+  right: 18.36%;
+  bottom: 0;
+  left: 0;
+}
+.usernameIcon {
+  position: absolute;
+  top: 33.4px;
+  right: -13.3px;
+  width: 30px;
+  height: 30px;
+}
+.englishLanguageCircle {
+  position: absolute;
+  width: 81.66%;
+  top: 216.6px;
+  right: 9.21%;
+  left: 9.13%;
+  height: 63px;
+}
+.arabic,
+.sPLLibrary {
+  position: absolute;
+  width: 100%;
+  top: 96px;
+  right: 0;
+  left: 0;
+  height: 224px;
+}
+.arabic {
+  width: 31.91%;
+  top: 394.4px;
+  right: 68.09%;
+  height: 320px;
+  overflow: hidden;
+}
+.image2,
+.rectangle1 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.image2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  border-radius: var(--br-lg);
+  height: 320px;
+  background-image: url(/image-31@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.rectangle1 {
+  border-radius: var(--br-base);
+  background-color: var(--color-blueviolet);
+  height: 18px;
+}
+.chapters2 {
+  position: absolute;
+  width: 72.38%;
+  top: -1px;
+  left: 13.75%;
+  line-height: 18px;
+  display: inline-block;
+}
+.frame2 {
+  position: absolute;
+  width: 37.18%;
+  top: 8.4px;
+  right: 62.69%;
+  left: 0.13%;
+  height: 18px;
+}
+.solanaBytes {
+  position: absolute;
+  width: 65.42%;
+  top: 37.4px;
+  left: 0.17%;
+  font-size: var(--font-size-lg);
+  line-height: 25.2px;
+  display: inline-block;
+}
+.frame1 {
+  position: absolute;
+  height: 100%;
+  width: 81.64%;
+  top: 0;
+  right: 18.36%;
+  bottom: 0;
+  left: 0;
+}
+.frameIcon {
+  position: absolute;
+  top: 33.4px;
+  right: -13.6px;
+  width: 30px;
+  height: 30px;
+}
+.frame,
+.rectangle2 {
+  position: absolute;
+  width: 81.66%;
+  top: 216.6px;
+  right: 9.33%;
+  left: 9.01%;
+  height: 63px;
+}
+.rectangle2 {
+  width: 100%;
+  top: 96px;
+  right: 0;
+  left: 0;
+  height: 224px;
+}
+.imageBreakpointNewCityNew {
+  position: absolute;
+  width: 31.91%;
+  top: 394.4px;
+  right: 34%;
+  left: 34.09%;
+  height: 320px;
+  overflow: hidden;
+}
+.image3,
+.rectangle3 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.image3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  border-radius: var(--br-lg);
+  height: 320px;
+  background-image: url(/image-42@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.rectangle3 {
+  border-radius: var(--br-base);
+  background-color: var(--color-blueviolet);
+  height: 18px;
+}
+.chapter {
+  position: absolute;
+  width: 67.53%;
+  top: -1px;
+  left: 16.16%;
+  line-height: 18px;
+  display: inline-block;
+}
+.frame5,
+.scaffoldSeries {
+  position: absolute;
+  left: -0.13%;
+}
+.frame5 {
+  width: 31.63%;
+  top: 8.4px;
+  right: 68.5%;
+  height: 18px;
+}
+.scaffoldSeries {
+  width: 53.42%;
+  top: 37.4px;
+  font-size: var(--font-size-lg);
+  line-height: 25.2px;
+  display: inline-block;
+}
+.frame4 {
+  position: absolute;
+  height: 100%;
+  width: 81.64%;
+  top: 0;
+  right: 18.36%;
+  bottom: 0;
+  left: 0;
+}
+.frameIcon1 {
+  position: absolute;
+  top: 33.4px;
+  right: -13px;
+  width: 30px;
+  height: 30px;
+}
+.frame3,
+.rectangle4 {
+  position: absolute;
+  width: 81.66%;
+  top: 216.6px;
+  right: 9.13%;
+  left: 9.21%;
+  height: 63px;
+}
+.rectangle4 {
+  width: 100%;
+  top: 96px;
+  right: 0;
+  left: 0;
+  height: 224px;
+}
+.imageBreakpointNewCityNew1 {
+  position: absolute;
+  width: 31.91%;
+  top: 394.4px;
+  right: 0;
+  left: 68.09%;
+  height: 320px;
+  overflow: hidden;
+}
+.image4,
+.rectangle5 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.image4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  border-radius: var(--br-lg);
+  height: 320px;
+  background-image: url(/image-511@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.rectangle5 {
+  border-radius: var(--br-base);
+  background-color: var(--color-blueviolet);
+  height: 18px;
+}
+.chapters3 {
+  position: absolute;
+  width: 72.04%;
+  top: -1px;
+  left: 14.41%;
+  line-height: 18px;
+  display: inline-block;
+}
+.frame8 {
+  position: absolute;
+  width: 35.49%;
+  top: 8.4px;
+  right: 64.51%;
+  left: 0;
+  height: 18px;
+}
+.freecodecampSolanaCourse {
+  position: absolute;
+  width: 79.07%;
+  top: 39.4px;
+  left: 0;
+  font-size: var(--font-size-lg);
+  line-height: 25.2px;
+  display: inline-block;
+}
+.frame7 {
+  position: absolute;
+  height: 100%;
+  width: 81.64%;
+  top: 0;
+  right: 18.36%;
+  bottom: 0;
+  left: 0;
+}
+.frameIcon2 {
+  position: absolute;
+  top: 58.4px;
+  right: -13.3px;
+  width: 30px;
+  height: 30px;
+}
+.frame6,
+.rectangle6 {
+  position: absolute;
+  width: 81.66%;
+  top: 191.6px;
+  right: 9.21%;
+  left: 9.13%;
+  height: 88px;
+}
+.rectangle6 {
+  width: 100%;
+  top: 96px;
+  right: 0;
+  left: 0;
+  height: 224px;
+}
+.imageBreakpointNewCityNew2 {
+  position: absolute;
+  width: 31.91%;
+  top: 738.4px;
+  right: 68.09%;
+  left: 0;
+  height: 320px;
+  overflow: hidden;
+  font-size: var(--font-size-xs);
+}
+.image5,
+.rectangle7 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.image5 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  border-radius: var(--br-lg);
+  height: 320px;
+  background-image: url(/image-611@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.rectangle7 {
+  border-radius: var(--br-base);
+  background-color: var(--color-blueviolet);
+  height: 18px;
+}
+.chapters4 {
+  position: absolute;
+  width: 74.26%;
+  top: -1px;
+  left: 12.87%;
+  line-height: 18px;
+  display: inline-block;
+}
+.frame11 {
+  position: absolute;
+  width: 39.73%;
+  top: 8.4px;
+  right: 60.14%;
+  left: 0.13%;
+  height: 18px;
+}
+.solanaDevelopmentBy {
+  position: absolute;
+  width: 82.5%;
+  top: 39.4px;
+  left: 0.13%;
+  font-size: var(--font-size-lg);
+  line-height: 25.2px;
+  display: inline-block;
+}
+.frame10 {
+  position: absolute;
+  height: 100%;
+  width: 81.64%;
+  top: 0;
+  right: 18.36%;
+  bottom: 0;
+  left: 0;
+}
+.frameIcon3 {
+  position: absolute;
+  top: 58.4px;
+  right: -13.6px;
+  width: 30px;
+  height: 30px;
+}
+.frame9,
+.rectangle8 {
+  position: absolute;
+  width: 81.66%;
+  top: 191.6px;
+  right: 9.33%;
+  left: 9.01%;
+  height: 88px;
+}
+.rectangle8 {
+  width: 100%;
+  top: 96px;
+  right: 0;
+  left: 0;
+  height: 224px;
+}
+.imageBreakpointNewCityNew3 {
+  position: absolute;
+  width: 31.91%;
+  top: 738.4px;
+  right: 34%;
+  left: 34.09%;
+  height: 320px;
+  overflow: hidden;
+}
+.image6,
+.rectangle9 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.image6 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  border-radius: var(--br-lg);
+  height: 320px;
+  background-image: url(/image-72@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.rectangle9 {
+  border-radius: var(--br-base);
+  background-color: var(--color-blueviolet);
+  height: 18px;
+}
+.chapters5 {
+  position: absolute;
+  width: 72.04%;
+  top: -1px;
+  left: 14.53%;
+  line-height: 18px;
+  display: inline-block;
+}
+.frame14,
+.solanaBootcamp {
+  position: absolute;
+  left: -0.13%;
+}
+.frame14 {
+  width: 35.49%;
+  top: 8.4px;
+  right: 64.64%;
+  height: 18px;
+}
+.solanaBootcamp {
+  width: 61.96%;
+  top: 37.4px;
+  font-size: var(--font-size-lg);
+  line-height: 25.2px;
+  display: inline-block;
+}
+.frame13 {
+  position: absolute;
+  height: 100%;
+  width: 81.64%;
+  top: 0;
+  right: 18.36%;
+  bottom: 0;
+  left: 0;
+}
+.frameIcon4 {
+  position: absolute;
+  top: 33.4px;
+  right: -13px;
+  width: 30px;
+  height: 30px;
+}
+.frame12,
+.rectangle10 {
+  position: absolute;
+  width: 81.66%;
+  top: 216.6px;
+  right: 9.13%;
+  left: 9.21%;
+  height: 63px;
+}
+.rectangle10 {
+  width: 100%;
+  top: 96px;
+  right: 0;
+  left: 0;
+  height: 224px;
+}
+.imageBreakpointNewCityNew4 {
+  position: absolute;
+  width: 31.91%;
+  top: 738.4px;
+  right: 0;
+  left: 68.09%;
+  height: 320px;
+  overflow: hidden;
+  font-size: var(--font-size-xs);
+}
+.managedbySolanaFoundation {
+  position: absolute;
+  width: 96.5%;
+  top: 101px;
+  right: 1.75%;
+  left: 1.75%;
+  height: 1058px;
+}
+.getStarted,
+.useTheseSolana {
+  position: absolute;
+  display: inline-block;
+}
+.getStarted {
+  margin: 0;
+  width: 28.02%;
+  top: -3.6px;
+  left: 0.05%;
+  font-size: inherit;
+  letter-spacing: 0.68px;
+  line-height: 42px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.useTheseSolana {
+  width: 85.18%;
+  top: 41.4px;
+  left: 0;
+  font-size: var(--font-size-xl);
+  line-height: 27.3px;
+  color: var(--color-silver-100);
+}
+.solanaOverview {
+  position: absolute;
+  width: 96.5%;
+  top: 0;
+  right: 1.75%;
+  left: 1.75%;
+  height: 69px;
+  font-size: var(--font-size-19xl);
+}
+.frameCityNewVibesGetEarly {
+  position: absolute;
+  width: 64.92%;
+  top: 522px;
+  right: 17.54%;
+  left: 17.54%;
+  height: 1159px;
+  text-align: left;
+  font-size: var(--font-size-2xs);
+  color: var(--color-white);
+  font-family: var(--font-helvetica);
+}
+.solanaChangelog {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-200);
+  height: 282px;
+}
+.docsAndTools {
+  position: absolute;
+  top: 0.4px;
+  left: calc(50% - 52.35px);
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.goToSource,
+.learnMore {
+  position: absolute;
+  left: 0;
+}
+.learnMore {
+  width: 28.97%;
+  top: -0.6px;
+  letter-spacing: 0.6px;
+  line-height: 27.3px;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.goToSource {
+  width: 100%;
+  top: 189px;
+  right: 0;
+  height: 27px;
+}
+.toolLibrary {
+  position: absolute;
+  top: -0.6px;
+  left: 0;
+  letter-spacing: 1.5px;
+  line-height: 19.2px;
+  text-transform: uppercase;
+}
+.coreDocumentation,
+.theOfficialSolana {
+  position: absolute;
+  width: 92.11%;
+  top: 33.4px;
+  left: 0;
+  line-height: 26px;
+  display: inline-block;
+}
+.coreDocumentation {
+  width: 63.85%;
+  top: -1.6px;
+  font-size: var(--font-size-lgi);
+  line-height: 20.16px;
+}
+.communityLearnNetwork,
+.frame16 {
+  position: absolute;
+  width: 100%;
+  top: 29px;
+  right: 0;
+  left: 0;
+  height: 108px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.communityLearnNetwork {
+  top: 0;
+  height: 153px;
+  font-size: var(--font-size-xs);
+  color: var(--color-blueviolet);
+}
+.imageFrames {
+  position: absolute;
+  width: 81.66%;
+  top: 31.6px;
+  right: 9.21%;
+  left: 9.13%;
+  height: 216px;
+}
+.latestEpisode1,
+.rectangle11 {
+  position: absolute;
+  left: 0;
+  height: 282px;
+}
+.latestEpisode1 {
+  width: 31.91%;
+  top: 0.4px;
+  right: 68.09%;
+  overflow: hidden;
+}
+.rectangle11 {
+  width: 100%;
+  top: 0;
+  right: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-200);
+}
+.frameIcon5 {
+  position: absolute;
+  top: 0.4px;
+  left: calc(50% - 52.05px);
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.learnMore1 {
+  position: absolute;
+  width: 28.97%;
+  top: -0.6px;
+  left: 0.11%;
+  letter-spacing: 0.6px;
+  line-height: 27.3px;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.frame18 {
+  position: absolute;
+  width: 100%;
+  top: 189px;
+  right: 0;
+  left: 0;
+  height: 27px;
+}
+.toolLibrary1 {
+  position: absolute;
+  top: -0.6px;
+  left: 0.11%;
+  letter-spacing: 1.5px;
+  line-height: 19.2px;
+  text-transform: uppercase;
+}
+.solanaCookbook,
+.theSolanaCookbook {
+  position: absolute;
+  width: 92.47%;
+  top: 33.4px;
+  left: 0.11%;
+  line-height: 26px;
+  display: inline-block;
+}
+.solanaCookbook {
+  width: 53.38%;
+  top: -1.6px;
+  font-size: var(--font-size-lgi);
+  line-height: 20.16px;
+}
+.frame19,
+.frame20 {
+  position: absolute;
+  width: 100%;
+  top: 29px;
+  right: 0;
+  left: 0;
+  height: 134px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.frame19 {
+  top: 0;
+  height: 179px;
+  font-size: var(--font-size-xs);
+  color: var(--color-blueviolet);
+}
+.frame17 {
+  position: absolute;
+  width: 81.66%;
+  top: 31.6px;
+  right: 9.33%;
+  left: 9.01%;
+  height: 216px;
+}
+.latestEpisode2,
+.rectangle12 {
+  position: absolute;
+  height: 282px;
+}
+.latestEpisode2 {
+  width: 31.91%;
+  top: 0.4px;
+  right: 34%;
+  left: 34.09%;
+  overflow: hidden;
+}
+.rectangle12 {
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-200);
+}
+.frameIcon6 {
+  position: absolute;
+  top: 0.4px;
+  left: calc(50% - 52.35px);
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.learnMore2 {
+  width: 28.97%;
+  top: -0.6px;
+  letter-spacing: 0.6px;
+  line-height: 27.3px;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.frame22,
+.learnMore2,
+.toolLibrary2 {
+  position: absolute;
+  left: 0;
+}
+.frame22 {
+  width: 100%;
+  top: 189px;
+  right: 0;
+  height: 27px;
+}
+.toolLibrary2 {
+  top: -0.6px;
+  letter-spacing: 1.5px;
+  line-height: 19.2px;
+  text-transform: uppercase;
+}
+.easilyBuildDeploy,
+.solanaPlayground {
+  position: absolute;
+  width: 91.76%;
+  top: 33.4px;
+  left: 0;
+  line-height: 26px;
+  display: inline-block;
+}
+.solanaPlayground {
+  width: 56.88%;
+  top: -1.6px;
+  font-size: var(--font-size-lgi);
+  line-height: 20.16px;
+}
+.frame23,
+.frame24 {
+  position: absolute;
+  width: 100%;
+  top: 29px;
+  right: 0;
+  left: 0;
+  height: 108px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.frame23 {
+  top: 0;
+  height: 153px;
+  font-size: var(--font-size-xs);
+  color: var(--color-blueviolet);
+}
+.frame21 {
+  position: absolute;
+  width: 81.66%;
+  top: 31.6px;
+  right: 9.21%;
+  left: 9.13%;
+  height: 216px;
+}
+.latestEpisode3,
+.rectangle13 {
+  position: absolute;
+  left: 0;
+  height: 282px;
+}
+.latestEpisode3 {
+  width: 31.91%;
+  top: 306.4px;
+  right: 68.09%;
+  overflow: hidden;
+}
+.rectangle13 {
+  width: 100%;
+  top: 0;
+  right: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-200);
+}
+.frameIcon7 {
+  position: absolute;
+  top: 0.4px;
+  left: calc(50% - 52.05px);
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.learnMore3 {
+  position: absolute;
+  width: 28.97%;
+  top: -0.6px;
+  left: 0.11%;
+  letter-spacing: 0.6px;
+  line-height: 27.3px;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.frame26 {
+  position: absolute;
+  width: 100%;
+  top: 189px;
+  right: 0;
+  left: 0;
+  height: 27px;
+}
+.toolLibrary3 {
+  position: absolute;
+  top: -0.6px;
+  left: 0.11%;
+  letter-spacing: 1.5px;
+  line-height: 19.2px;
+  text-transform: uppercase;
+}
+.createSolanaDapp,
+.getUpAnd {
+  position: absolute;
+  width: 93.49%;
+  top: 33.4px;
+  left: 0.11%;
+  line-height: 26px;
+  display: inline-block;
+}
+.createSolanaDapp {
+  width: 59.67%;
+  top: -1.6px;
+  font-size: var(--font-size-lgi);
+  line-height: 20.16px;
+}
+.frame27,
+.frame28 {
+  position: absolute;
+  width: 100%;
+  top: 29px;
+  right: 0;
+  left: 0;
+  height: 108px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.frame27 {
+  top: 0;
+  height: 153px;
+  font-size: var(--font-size-xs);
+  color: var(--color-blueviolet);
+}
+.frame25 {
+  position: absolute;
+  width: 81.66%;
+  top: 31.6px;
+  right: 9.33%;
+  left: 9.01%;
+  height: 216px;
+}
+.latestEpisodeChild {
+  position: absolute;
+  top: 256px;
+  left: 49.6px;
+  border-radius: 50%;
+  background-color: var(--color-darkorchid);
+  filter: blur(80px);
+  width: 259px;
+  height: 59px;
+}
+.latestEpisode4,
+.rectangle14 {
+  position: absolute;
+  height: 282px;
+}
+.latestEpisode4 {
+  width: 31.91%;
+  top: 306.4px;
+  right: 34%;
+  left: 34.09%;
+  overflow: hidden;
+}
+.rectangle14 {
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-200);
+}
+.frameIcon8 {
+  position: absolute;
+  top: 0.4px;
+  left: calc(50% - 52.35px);
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.learnMore4 {
+  width: 28.97%;
+  top: -0.6px;
+  letter-spacing: 0.6px;
+  line-height: 27.3px;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.frame30,
+.learnMore4,
+.toolLibrary4 {
+  position: absolute;
+  left: 0;
+}
+.frame30 {
+  width: 100%;
+  top: 189px;
+  right: 0;
+  height: 27px;
+}
+.toolLibrary4 {
+  top: -0.6px;
+  letter-spacing: 1.5px;
+  line-height: 19.2px;
+  text-transform: uppercase;
+}
+.solanaProgramLibrary,
+.theSolanaProgram {
+  position: absolute;
+  width: 95.93%;
+  top: 33.4px;
+  left: 0;
+  line-height: 26px;
+  display: inline-block;
+}
+.solanaProgramLibrary {
+  width: 71.1%;
+  top: -1.6px;
+  font-size: var(--font-size-lgi);
+  line-height: 20.16px;
+}
+.frame31,
+.frame32 {
+  position: absolute;
+  width: 100%;
+  top: 29px;
+  right: 0;
+  left: 0;
+  height: 108px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.frame31 {
+  top: 0;
+  height: 153px;
+  font-size: var(--font-size-xs);
+  color: var(--color-blueviolet);
+}
+.frame29 {
+  position: absolute;
+  width: 81.66%;
+  top: 31.6px;
+  right: 9.21%;
+  left: 9.13%;
+  height: 216px;
+}
+.latestEpisode5,
+.rectangle15 {
+  position: absolute;
+  left: 0;
+  height: 282px;
+}
+.latestEpisode5 {
+  width: 31.91%;
+  top: 612.4px;
+  right: 68.09%;
+  overflow: hidden;
+}
+.rectangle15 {
+  width: 100%;
+  top: 0;
+  right: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-200);
+}
+.frameIcon9 {
+  position: absolute;
+  top: 0.4px;
+  left: calc(50% - 52.05px);
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.learnMore5 {
+  position: absolute;
+  width: 28.97%;
+  top: -0.6px;
+  left: 0.11%;
+  letter-spacing: 0.6px;
+  line-height: 27.3px;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.frame34 {
+  position: absolute;
+  width: 100%;
+  top: 189px;
+  right: 0;
+  left: 0;
+  height: 27px;
+}
+.toolLibrary5 {
+  position: absolute;
+  top: -0.6px;
+  left: 0.11%;
+  letter-spacing: 1.5px;
+  line-height: 19.2px;
+  text-transform: uppercase;
+}
+.aListOf,
+.programExamples1 {
+  position: absolute;
+  width: 95.93%;
+  top: 33.4px;
+  left: 0.11%;
+  line-height: 26px;
+  display: inline-block;
+}
+.programExamples1 {
+  width: 57.3%;
+  top: -1.6px;
+  left: 0.14%;
+  font-size: var(--font-size-lgi);
+  line-height: 20.16px;
+}
+.frame35,
+.frame36 {
+  position: absolute;
+  width: 100%;
+  top: 29px;
+  right: 0;
+  left: 0;
+  height: 108px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.frame35 {
+  top: 0;
+  height: 153px;
+  font-size: var(--font-size-xs);
+  color: var(--color-blueviolet);
+}
+.frame33,
+.latestEpisode6 {
+  position: absolute;
+  width: 81.66%;
+  top: 31.6px;
+  right: 9.33%;
+  left: 9.01%;
+  height: 216px;
+}
+.latestEpisode6 {
+  width: 31.91%;
+  top: 612.4px;
+  right: 34%;
+  left: 34.09%;
+  height: 282px;
+  overflow: hidden;
+}
+.frame15 {
+  position: absolute;
+  width: 96.5%;
+  top: 101px;
+  right: 1.75%;
+  left: 1.75%;
+  height: 894px;
+}
+.digDeeper,
+.learnFromResources {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.digDeeper {
+  margin: 0;
+  width: 18.16%;
+  top: -3.6px;
+  font-size: inherit;
+  letter-spacing: 0.68px;
+  line-height: 42px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.learnFromResources {
+  width: 49.72%;
+  top: 41.4px;
+  font-size: var(--font-size-xl);
+  line-height: 27.3px;
+  color: var(--color-silver-100);
+}
+.breakpointNewCity,
+.metaplexDocs {
+  position: absolute;
+  width: 96.5%;
+  top: 0;
+  right: 1.75%;
+  left: 1.75%;
+  height: 69px;
+  font-size: var(--font-size-18xl);
+}
+.metaplexDocs {
+  width: 64.92%;
+  top: 1809px;
+  right: 17.54%;
+  left: 17.54%;
+  height: 995px;
+  text-align: left;
+  font-size: var(--font-size-2xs);
+  color: var(--color-white);
+  font-family: var(--font-helvetica);
+}
+.frame37 {
+  position: absolute;
+  width: 64.01%;
+  top: 3818.7px;
+  right: 18%;
+  left: 18%;
+  height: 381px;
+}
+.buildCommunity,
+.container {
+  position: absolute;
+  width: 100%;
+  top: 231.6px;
+  right: 0;
+  left: 0;
+  height: 4199.7px;
+}
+.buildCommunity {
+  height: 100%;
+  width: 100.81%;
+  top: 0;
+  right: -0.41%;
+  bottom: 0;
+  left: -0.41%;
+  background-color: var(--color-gray-1000);
+}
+.rectangleLearnIcon {
+  position: absolute;
+  top: 2px;
+  left: calc(50% + 23.5px);
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.build {
+  position: absolute;
+  top: -1px;
+  left: calc(50% - 17.5px);
+  line-height: 27.3px;
+  display: inline-block;
+  width: 43px;
+}
+.frameHeader {
+  position: absolute;
+  width: 20.34%;
+  top: 0;
+  right: 58.03%;
+  left: 21.63%;
+  height: 27px;
+  color: var(--color-gainsboro);
+}
+.frameIcon10 {
+  position: absolute;
+  top: 2px;
+  left: calc(50% + 49.5px);
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.community {
+  position: absolute;
+  top: -1px;
+  left: calc(50% - 41.5px);
+  line-height: 27.3px;
+  display: inline-block;
+  width: 91px;
+}
+.frameHeader1 {
+  position: absolute;
+  width: 31.48%;
+  top: 0;
+  right: 0;
+  left: 68.52%;
+  height: 27px;
+}
+.frameIcon11 {
+  position: absolute;
+  top: 2px;
+  left: calc(50% + 26.5px);
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.learn {
+  position: absolute;
+  top: -1px;
+  left: calc(50% - 18.5px);
+  line-height: 27.3px;
+  display: inline-block;
+  width: 45px;
+}
+.frameHeader2 {
+  position: absolute;
+  width: 21.63%;
+  top: 0;
+  right: 78.37%;
+  left: 0;
+  height: 27px;
+}
+.frameIcon12 {
+  position: absolute;
+  top: 2px;
+  left: calc(50% + 38px);
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.network {
+  position: absolute;
+  top: -1px;
+  left: calc(50% - 30px);
+  line-height: 27.3px;
+  display: inline-block;
+  width: 68px;
+}
+.frameHeader3 {
+  width: 26.55%;
+  top: 0;
+  right: 31.48%;
+  left: 41.97%;
+  font-size: var(--font-size-lg);
+}
+.frameHeader3,
+.image11,
+.networkFrame {
+  position: absolute;
+  height: 27px;
+}
+.networkFrame {
+  width: 40.96%;
+  top: calc(50% - 13.5px);
+  right: 1.75%;
+  left: 57.28%;
+}
+.image11 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 2px;
+  left: 36px;
+  width: 181.7px;
+  background-image: url(/image-112@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.imageLogo {
+  width: 66.36%;
+  top: calc(50% - 13.5px);
+  right: 16.82%;
+  left: 16.82%;
+  height: 27px;
+}
+.divnav,
+.footer,
+.imageLogo {
+  position: absolute;
+}
+.divnav {
+  width: calc(100% - 14px);
+  top: 36px;
+  right: 7px;
+  left: 7px;
+  height: 67px;
+  text-align: center;
+  font-size: var(--font-size-mid);
+  color: var(--color-lightslategray);
+  font-family: var(--font-helvetica);
+}
+.footer {
+  width: 69.28%;
+  top: 0;
+  right: 15.36%;
+  left: 15.36%;
+  height: 37px;
+}
+.breakpoint2023 {
+  position: absolute;
+  top: 5px;
+  left: calc(50% - 276px);
+  line-height: 27.3px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 553px;
+}
+.divfooterTitle {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  background: linear-gradient(260.33deg, #0047ff, #00bcd4);
+  height: 37px;
+}
+.buildPage {
+  width: 100%;
+  height: 4894px;
+  position: relative;
+  background-color: var(--color-black);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mid);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

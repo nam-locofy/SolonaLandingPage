@@ -1,0 +1,94 @@
+.rectangle {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-gray-200);
+  box-shadow: 0 58px 80px rgba(0, 0, 0, 0.16);
+  height: 357px;
+}
+.frame1 {
+  outline: 0;
+  padding: var(--padding-4xs) var(--padding-3xs);
+  font-family: var(--font-roboto);
+  font-weight: 600;
+  font-size: var(--font-size-mini);
+  color: var(--color-lightslategray);
+  border: 0;
+  width: 100%;
+  height: 100%;
+  background: 0 0;
+  position: relative;
+  z-index: 3;
+}
+.learnSolana,
+.wrapperFrame {
+  position: absolute;
+  border-radius: var(--br-781xl);
+  box-sizing: border-box;
+}
+.learnSolana {
+  width: 25%;
+  background-color: var(--color-mediumspringgreen-200);
+  border: 1px solid var(--color-black);
+  height: 46px;
+  z-index: 1;
+  right: 9.999999999999886px;
+  top: 9px;
+  pointer-events: none;
+}
+.wrapperFrame {
+  border: 0;
+  background-color: var(--color-gray-500);
+  width: 75.5%;
+  top: 247.3px;
+  right: 12.14%;
+  left: 12.36%;
+  height: 64px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.signUpTo {
+  position: absolute;
+  width: 94.66%;
+  top: 62.7px;
+  left: 0;
+  line-height: 27.3px;
+  display: inline-block;
+}
+.solanaDeveloperUpdate {
+  margin: 0;
+  position: absolute;
+  top: -4.3px;
+  left: 0;
+  font-size: var(--font-size-17xl);
+  line-height: 37.8px;
+  font-weight: 400;
+  font-family: inherit;
+  color: var(--color-white);
+}
+.frame,
+.metaplexDocs {
+  position: absolute;
+  width: 79.74%;
+  top: 53.3px;
+  right: 10.05%;
+  left: 10.21%;
+  height: 115px;
+}
+.frame {
+  width: 47.86%;
+  top: 23.7px;
+  right: 51.07%;
+  left: 1.06%;
+  height: 357px;
+  text-align: left;
+  font-size: var(--font-size-mid);
+  color: var(--color-silver-100);
+  font-family: var(--font-helvetica);
+}

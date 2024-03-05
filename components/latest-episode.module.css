@@ -1,0 +1,98 @@
+.rectangle {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-200);
+  height: 282px;
+}
+.frame2 {
+  margin: 0;
+  position: absolute;
+  top: 0.4px;
+  left: calc(50% - 52.65px);
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.learnMore {
+  position: absolute;
+  width: 28.97%;
+  top: -0.6px;
+  left: -0.11%;
+  letter-spacing: 0.6px;
+  line-height: 27.3px;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.frame1 {
+  position: absolute;
+  width: 100%;
+  top: 189px;
+  right: 0;
+  left: 0;
+  height: 27px;
+}
+.toolLibrary {
+  position: absolute;
+  top: -0.6px;
+  left: -0.11%;
+  letter-spacing: 1.5px;
+  line-height: 19.2px;
+  text-transform: uppercase;
+}
+.solanaStackExchange,
+.solanaStackExchange1 {
+  position: absolute;
+  width: 91.05%;
+  top: 33.4px;
+  left: -0.11%;
+  line-height: 26px;
+  display: inline-block;
+}
+.solanaStackExchange1 {
+  width: 71.52%;
+  top: -1.6px;
+  font-size: var(--font-size-lgi);
+  line-height: 20.16px;
+}
+.frame3,
+.frame4 {
+  position: absolute;
+  width: 100%;
+  top: 29px;
+  right: 0;
+  left: 0;
+  height: 108px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.frame3 {
+  top: 0;
+  height: 153px;
+  font-size: var(--font-size-xs);
+  color: var(--color-blueviolet);
+}
+.frame,
+.latestEpisode {
+  position: absolute;
+  width: 81.66%;
+  top: 31.6px;
+  right: 9.13%;
+  left: 9.21%;
+  height: 216px;
+}
+.latestEpisode {
+  width: 31.91%;
+  top: 0.4px;
+  right: 0;
+  left: 68.09%;
+  height: 282px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-2xs);
+  color: var(--color-white);
+  font-family: var(--font-helvetica);
+}
